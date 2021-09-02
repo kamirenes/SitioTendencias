@@ -89,10 +89,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Juanpis Gonzales"
+  avatar           : "/assets/juanpis.PNG"
+  bio              : "Bienvenidos al perfil más play de Colombia😎
+                      **Uribista** de mano firme y corazón grande.
+                      CEO de @thejpbeer
+                      The Jp Channel👇
+                      thejpchannel.com"
+  location         : "Colombia"
   links:
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
